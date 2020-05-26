@@ -1,0 +1,33 @@
+*{
+
+	padding: 0px;
+	margin: 0px;
+}
+.center{
+	margin:0 auto;
+	max-width:380px;
+	margin-top: 50px;
+
+}
+.box-cadastro{
+	box-shadow:  5px 10px 5px 5px #888;
+	max-width: 500px;
+	width: 100%;
+	padding: 40px 2%;
+	background:white;
+	height: auto;
+
+	
+}
+
+.box-cadastro h2{
+	font-size: 19px;
+	text-align: center;
+	color: black;
+	margin:10px 0;
+	border-bottom: 2px solid #ccc;
+	text-transform: uppercase;
+	font-weight: bold;
+
+
+}

@@ -1,0 +1,118 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.centro{
+  margin: 0 auto;
+  max-width: 400px;
+  margin-top: 100px;
+}
+
+.login{
+  box-shadow:  5px 5px 5px 5px #888;
+  max-width: 500px;
+  width: 100%;
+  padding: 40px 2%;
+  background: white;
+  margin-bottom: 20px;
+}
+
+.login h1{
+  font-size: 19px;
+  text-align: center;
+  color: black;
+  margin:10px 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.campos{
+  width: 90%;
+  height: 40px;
+  border: 1px solid #ccc;
+  padding-left: 8px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.botao{
+  text-align: center;
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-left: 120px;
+  margin-right: 120px;
+  font-size: 16px;
+  color: white;
+  border: 0;
+  background-color: #00bfa5;
+  border-radius: 10px;
+}
+
+.btn-warning{
+  text-align: center;
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+  margin-left: 40px;
+  margin-right: 0px;
+  font-size: 16px;
+  border: 0;
+  background-color: #00bfa5 !important;
+  color: white !important;
+  border-radius: 10px;
+}
+
+#btnlogout{
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  margin: 5px 15px;
+
+}
+
+.btn{
+  width: 160px;
+}
+
+.botaoIndex{
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  margin: 5px 15px;
+}
+
+#botoesAdic{
+  margin-left: 29%;
+  margin-top: 5%;
+}
+
+#blocoTarefas{
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-top: -22%;
+  box-shadow:  5px 5px 5px 5px #EA7216;
+  border-radius: 5px;
+  float: right;
+  width: 60%;
+  padding: 1%;
+}
+
+.tarefa{
+  margin: 5%;
+  background-color: #fffafa;
+  padding: 3%;
+  border-radius: 5px;
+}
+
+.concluido{
+  float: right;
+}
+
+.pendente{
+  float: right;
+}
+

@@ -1,0 +1,35 @@
+*{	
+	margin:0;
+	padding:0;
+
+	box-sizing:border-box;
+}
+
+/** 1- o box maior(pai) */
+
+
+/** 2- o box maior(filho) */
+.centro{
+	width:960px;
+	padding-left:7%;
+	padding-right:5%;
+	margin:0 auto;
+	
+	background-color:#fcf9ff;
+}
+
+/**3- Inicio da estrutura do formulario */
+
+.centro{
+	width:100%;
+	position:relative;
+	padding-top:60px;
+	padding-bottom:60px;
+	margin:20px;
+	
+	border-left:solid 1px red;
+	border-right:solid 1px red;
+}
+
+
+
